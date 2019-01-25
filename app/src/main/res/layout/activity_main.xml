@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".Button.MainActivity">
+
+  <RelativeLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerInParent="true"
+      android:layout_marginLeft="10dp"
+      android:layout_marginRight="10dp">
+    <EditText
+        android:id="@+id/fullname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text"
+        android:hint="Fullname"
+        android:textColor="#000000"
+        android:textColorHint="#848484"
+        android:textSize="24sp"
+        android:inputType="textNoSuggestions"
+        android:fontFamily="@font/robotoregular"
+        android:singleLine="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/fullname"
+        android:fontFamily="@font/robotoregular"
+        android:text="Close Soft Keyboard"
+        android:onClick="closeKeyboard"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
+  </RelativeLayout>
+
+</RelativeLayout>

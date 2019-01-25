@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AndroidView</string>
+    <string name="textimageButton">Text And Image Button</string>
+    <string name="buttonClicked">Button Clicked</string>
+    <string name="xmlbuttonClicked">Xml Button Clicked</string>
+    <string name="disablebackpressButton">Disable OnBackpress Button</string>
+    <string name="updatetextButton">Update Text Button</string>
+    <string name="animateButton">Animate Button</string>
+    <string name="refreshActivityButton">Refresh Activity Button</string>
+    <string name="buttonStyle">Button Style</string>
+    <string name="toolbarButton">Toolbar Button</string>
+    <string name="prograButtonTint">Button Tint Programmatically</string>
+    <string name="soundButton">Play Sound Button</string>
+    <string name="dynamicallyButton">Dynamically Button</string>
+    <string name="disableDoubleClickingButton">Disable Double Clicking Button</string>
+    <string name="getbuttonText">Get Button Text</string>
+    <string name="prograMarginButton">Margin Button Programmatically</string>
+    <string name="custombuttonState">Custom Button State</string>
+    <string name="disableAndroidButton">Disable Android Button</string>
+    <string name="lowercasetextButton">Lowercase Text Button</string>
+    <string name="onbackpressExitButton">OnBackPress Exit Button</string>
+    <string name="fabProgrammatically">Fab Programmatically</string>
+    <string name="circleButton">Circle Button</string>
+    <string name="materialeffectButton">Material Effect Button</string>
+    <string name="centerButtonprogra">Center Button Programmatically</string>
+    <string name="alertDialogOnButton">Alert Dialog On Button Click</string>
+    <string name="changefabColor">Change Fab Color</string>
+    <string name="displayBackbutton">Displsy Back Button On ToolBar</string>
+</resources>

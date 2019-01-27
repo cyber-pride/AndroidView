@@ -46,6 +46,78 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_buttonClicked:
                 startActivity(new Intent(MainActivity.this, StartActivityButtonActivity.class));
                 return true;
+            case R.id.action_xmlbuttonClicked:
+                startActivity(new Intent(MainActivity.this, XmlButtonClickActivity.class));
+                return true;
+            case R.id.action_disablebackpressButton:
+                startActivity(new Intent(MainActivity.this, DisableOnBackPressActivity.class));
+                return true;
+            case R.id.action_changefabColor:
+                startActivity(new Intent(MainActivity.this, ChangeFabColorActivity.class));
+                return true;
+            case R.id.action_alertDialogOnButton:
+                startActivity(new Intent(MainActivity.this, AlertDialogButtonActivity.class));
+                return true;
+            case R.id.action_centerButtonprogra:
+                startActivity(new Intent(MainActivity.this, ProgrammaticallyCenterButtonActivity.class));
+                return true;
+            case R.id.action_materialeffectButton:
+                startActivity(new Intent(MainActivity.this, MaterialEffectButtonActivity.class));
+                return true;
+            case R.id.action_circleButton:
+                startActivity(new Intent(MainActivity.this, CircleButtonActivity.class));
+                return true;
+            case R.id.action_fabProgrammatically:
+                startActivity(new Intent(MainActivity.this, ProgrammaticallyFabActivity.class));
+                return true;
+            case R.id.action_onbackpressExitButton:
+                startActivity(new Intent(MainActivity.this, OnBackPressTwiceExistActivity.class));
+                return true;
+            case R.id.action_lowercaseButton:
+                startActivity(new Intent(MainActivity.this, LowecaseTextButtonActivity.class));
+                return true;
+            case R.id.action_disableAndroidButton:
+                startActivity(new Intent(MainActivity.this, DisableButtonActivity.class));
+                return true;
+            case R.id.action_custombuttonState:
+                startActivity(new Intent(MainActivity.this, CustomButtonStateActivity.class));
+                return true;
+            case R.id.action_prograMarginButton:
+                startActivity(new Intent(MainActivity.this, ProgrammaticallyMarginBtnActivity.class));
+                return true;
+            case R.id.action_getbuttonText:
+                startActivity(new Intent(MainActivity.this, GetBtnTextActivity.class));
+                return true;
+            case R.id.action_disableDoubleClickingButton:
+                startActivity(new Intent(MainActivity.this, DisableDoubleClickingButtonActivity.class));
+                return true;
+            case R.id.action_dynamicallyButton:
+                startActivity(new Intent(MainActivity.this, DynamicButtonActivity.class));
+                return true;
+            case R.id.action_soundButton:
+                startActivity(new Intent(MainActivity.this, SoundButtonActivity.class));
+                return true;
+            case R.id.action_prograButtonTint:
+                startActivity(new Intent(MainActivity.this, ProgrammaticallyBtnTintActivity.class));
+                return true;
+            case R.id.action_toolbarButton:
+                startActivity(new Intent(MainActivity.this, ToolbarBtnActivity.class));
+                return true;
+            case R.id.action_buttonStyle:
+                startActivity(new Intent(MainActivity.this, BtnStyleActivity.class));
+                return true;
+            case R.id.action_refreshActivityButton:
+                startActivity(new Intent(MainActivity.this, RefreshBtnActivity.class));
+                return true;
+            case R.id.action_displayBackbutton:
+                startActivity(new Intent(MainActivity.this, DisplayBackBtnActivity.class));
+                return true;
+            case R.id.action_animateButton:
+                startActivity(new Intent(MainActivity.this, AnimateBtnActivity.class));
+                return true;
+            case R.id.action_updatetextButton:
+                startActivity(new Intent(MainActivity.this, UpdateBtnTextActivity.class));
+                return true;
         }
 
         return true;

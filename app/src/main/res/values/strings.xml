@@ -25,5 +25,5 @@
     <string name="centerButtonprogra">Center Button Programmatically</string>
     <string name="alertDialogOnButton">Alert Dialog On Button Click</string>
     <string name="changefabColor">Change Fab Color</string>
-    <string name="displayBackbutton">Displsy Back Button On ToolBar</string>
+    <string name="displayBackbutton">Display Back Button On ToolBar</string>
 </resources>

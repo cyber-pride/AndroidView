@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="#ededed"
     tools:context=".Button.MainActivity">
 
   <RelativeLayout
@@ -23,7 +23,6 @@
         android:textColorHint="#848484"
         android:textSize="24sp"
         android:inputType="textNoSuggestions"
-        android:fontFamily="@font/robotoregular"
         android:singleLine="true"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
@@ -36,7 +35,6 @@
         android:background="@color/colorAccent"
         android:layout_marginTop="15dp"
         android:layout_below="@id/fullname"
-        android:fontFamily="@font/robotoregular"
         android:text="Close Soft Keyboard"
         android:onClick="closeKeyboard"
         android:textColor="#ffffff"

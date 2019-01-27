@@ -8,4 +8,29 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ToolBarTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarStyle">@style/AppActionBarStyle</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/AppActionBarStyle</item>
+    </style>
+
+    <style name="AppActionBarStyle"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/colorPrimary</item>
+        <!-- Support library compatibility -->
+        <item name="background">@color/colorPrimary</item>
+    </style>
+
+    <style name="ToolBarTheme.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+
 </resources>

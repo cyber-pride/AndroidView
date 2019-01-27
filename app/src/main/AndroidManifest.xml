@@ -16,7 +16,35 @@
             </intent-filter>
         </activity>
         <activity android:name=".Button.TextIconButtonActivity" />
-        <activity android:name=".Button.StartActivityButtonActivity"></activity>
+        <activity android:name=".Button.StartActivityButtonActivity" />
+        <activity android:name=".Button.XmlButtonClickActivity" />
+        <activity android:name=".Button.DisableOnBackPressActivity" />
+        <activity android:name=".Button.ChangeFabColorActivity" />
+        <activity android:name=".Button.AlertDialogButtonActivity" />
+        <activity android:name=".Button.ProgrammaticallyCenterButtonActivity" />
+        <activity android:name=".Button.MaterialEffectButtonActivity" />
+        <activity android:name=".Button.CircleButtonActivity" />
+        <activity android:name=".Button.ProgrammaticallyFabActivity" />
+        <activity android:name=".Button.OnBackPressTwiceExistActivity" />
+        <activity android:name=".Button.LowecaseTextButtonActivity" />
+        <activity android:name=".Button.DisableButtonActivity" />
+        <activity android:name=".Button.CustomButtonStateActivity" />
+        <activity android:name=".Button.ProgrammaticallyMarginBtnActivity" />
+        <activity android:name=".Button.GetBtnTextActivity" />
+        <activity android:name=".Button.DisableDoubleClickingButtonActivity" />
+        <activity android:name=".Button.DynamicButtonActivity" />
+        <activity android:name=".Button.SoundButtonActivity" />
+        <activity android:name=".Button.ProgrammaticallyBtnTintActivity" />
+        <activity
+            android:name=".Button.ToolbarBtnActivity"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity android:name=".Button.BtnStyleActivity" />
+        <activity android:name=".Button.RefreshBtnActivity" />
+        <activity
+            android:name=".Button.DisplayBackBtnActivity"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity android:name=".Button.AnimateBtnActivity" />
+        <activity android:name=".Button.UpdateBtnTextActivity"></activity>
     </application>
 
 </manifest>

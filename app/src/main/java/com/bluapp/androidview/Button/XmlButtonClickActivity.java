@@ -16,6 +16,6 @@ public class XmlButtonClickActivity extends AppCompatActivity {
     }
 
     public void startActivity(View view){
-        startActivity(new Intent(XmlButtonClickActivity.this, MainActivity.class));
+        startActivity(new Intent(XmlButtonClickActivity.this, ButtonActivity.class));
     }
 }

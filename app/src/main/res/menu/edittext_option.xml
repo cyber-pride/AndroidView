@@ -1,0 +1,228 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_edittextcursorcolor"
+        android:title="@string/edittextcursorcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextcursoronend"
+        android:title="@string/edittextcursoronend"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_limittextofedittext"
+        android:title="@string/limittextofedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_hideedittextunderlineborder"
+        android:title="@string/hideedittextunderlineborder"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextunderlinebordercolor"
+        android:title="@string/edittextunderlinebordercolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextunderlineborder"
+        android:title="@string/edittextunderlineborder"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextcapfirstletter"
+        android:title="@string/edittextcapfirstletter"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_textcolorofedittext"
+        android:title="@string/textcolorofedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextbackgroundcolor"
+        android:title="@string/edittextbackgroundcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextsingleline"
+        android:title="@string/edittextsingleline"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittexthint"
+        android:title="@string/edittexthint"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittexthintcolor"
+        android:title="@string/edittexthintcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextsetfocus"
+        android:title="@string/edittextsetfocus"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextdatepicker"
+        android:title="@string/edittextdatepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_programinputtype"
+        android:title="@string/programinputtype"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_multilineedittext"
+        android:title="@string/multilineedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_programdisableedittext"
+        android:title="@string/programdisableedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextinputvalue"
+        android:title="@string/edittextinputvalue"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextprogrammatically"
+        android:title="@string/edittextprogrammatically"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_validateedittext"
+        android:title="@string/validateedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_copyedittext"
+        android:title="@string/copyedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_clearedittext"
+        android:title="@string/clearedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_alertdialogedittext"
+        android:title="@string/alertdialogedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roundedcorneredittext"
+        android:title="@string/roundedcorneredittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_shadowedittext"
+        android:title="@string/shadowedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_disableedittext"
+        android:title="@string/disableedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_disablesuggestionedittext"
+        android:title="@string/disablesuggestionedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_onclickedittext"
+        android:title="@string/onclickedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_textwatcheredittext"
+        android:title="@string/textwatcheredittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_onfocuschangelistneredittext"
+        android:title="@string/onfocuschangelistneredittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_oneditoractionlistneredittext"
+        android:title="@string/oneditoractionlistneredittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_disableedittextcursor"
+        android:title="@string/disableedittextcursor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_emptyedittextcheck"
+        android:title="@string/emptyedittextcheck"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextwithicon"
+        android:title="@string/edittextwithicon"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edittextdrawableclick"
+        android:title="@string/edittextdrawableclick"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_numericedittext"
+        android:title="@string/numericedittext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_getedittextint"
+        android:title="@string/getedittextint"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+</menu>

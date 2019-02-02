@@ -8,13 +8,14 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Button.MainActivity">
+        <activity android:name=".ViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Button.ButtonActivity" />
         <activity android:name=".Button.TextIconButtonActivity" />
         <activity android:name=".Button.StartActivityButtonActivity" />
         <activity android:name=".Button.XmlButtonClickActivity" />
@@ -44,7 +45,45 @@
             android:name=".Button.DisplayBackBtnActivity"
             android:theme="@style/ToolBarTheme.NoActionBar" />
         <activity android:name=".Button.AnimateBtnActivity" />
-        <activity android:name=".Button.UpdateBtnTextActivity"></activity>
+        <activity android:name=".Button.UpdateBtnTextActivity" />
+        <activity android:name=".EditText.EditTextActivity" />
+        <activity android:name=".EditText.EditTextCursorColorActivity" />
+        <activity android:name=".EditText.EditTextCursorOnEndActivity" />
+        <activity android:name=".EditText.LimitTextOfEditTextActivity" />
+        <activity android:name=".EditText.HideEditTextUnderlineBorderActivity" />
+        <activity android:name=".EditText.EditTextUnderlineBorderColorActivity" />
+        <activity android:name=".EditText.EditTextUnderlineBorderActivity" />
+        <activity android:name=".EditText.EditTextCapFirstLetterActivity" />
+        <activity android:name=".EditText.TextColorOfEditTextActivity" />
+        <activity android:name=".EditText.EditTextBackgroundColorActivity" />
+        <activity android:name=".EditText.EditTextSingleLineActivity" />
+        <activity android:name=".EditText.EditTextHintActivity" />
+        <activity android:name=".EditText.EditTextHintColorActivity" />
+        <activity android:name=".EditText.EditTextSetFocusActivity" />
+        <activity android:name=".EditText.EditTextDatePickerActivity" />
+        <activity android:name=".EditText.ProgrammaticallyInputTypeActivity" />
+        <activity android:name=".EditText.MultiLineEditTextActivity" />
+        <activity android:name=".EditText.ProgrammaticallyDisableEditTextActivity" />
+        <activity android:name=".EditText.EditTextGetInputValueActivity" />
+        <activity android:name=".EditText.EditTextProgrammaticallyActivity" />
+        <activity android:name=".EditText.ValidateEditTextActivity" />
+        <activity android:name=".EditText.CopyEditTextActivity" />
+        <activity android:name=".EditText.ClearEditTextActivity" />
+        <activity android:name=".EditText.AlertDialogEditTextActivity" />
+        <activity android:name=".EditText.RoundedCornerEditTextActivity" />
+        <activity android:name=".EditText.ShadowEditTextActivity" />
+        <activity android:name=".EditText.DisableEditTextActivity" />
+        <activity android:name=".EditText.DisableSuggestionEditTextActivity" />
+        <activity android:name=".EditText.OnClickEditTextActivity" />
+        <activity android:name=".EditText.TextWatcherEditTextActivity" />
+        <activity android:name=".EditText.OnFocusChangeListnerEditTextActivity" />
+        <activity android:name=".EditText.OnEditorActionListnerEditTextActivity" />
+        <activity android:name=".EditText.DisableEditTextCursorActivity" />
+        <activity android:name=".EditText.EmptyEditTextCheckActivity" />
+        <activity android:name=".EditText.EditTextWithIconActivity" />
+        <activity android:name=".EditText.EditTextDrawableClickActivity" />
+        <activity android:name=".EditText.NumericEditTextActivity" />
+        <activity android:name=".EditText.GetEditTextIntActivity"></activity>
     </application>
 
 </manifest>

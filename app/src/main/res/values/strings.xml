@@ -63,4 +63,11 @@
     <string name="edittextdrawableclick">EditText Drawable Click</string>
     <string name="numericedittext">Numeric EditText</string>
     <string name="getedittextint">Get Int In EditText</string>
+    <string name="floatinglabelcolor">Color TextInputLayout</string>
+    <string name="disableanimate">Disable Anim TextInput</string>
+    <string name="lefticon">Left Icon TextInput</string>
+    <string name="programmaticallyaccent">Accent Color Program</string>
+    <string name="aligntextinputlayouterror">Align TextInputLayout Error</string>
+    <string name="asteriskredtextinputlayout">Required Field Hint</string>
+    <string name="asteriskred"><font color='#cc0029'>*</font></string>
 </resources>

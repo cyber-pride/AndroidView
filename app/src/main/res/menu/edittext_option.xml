@@ -223,6 +223,43 @@
         android:orderInCategory="100"
         app:showAsAction="never" />
 
+    <item
+        android:id="@+id/action_floatinglabelcolor"
+        android:title="@string/floatinglabelcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_disableanimate"
+        android:title="@string/disableanimate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lefticon"
+        android:title="@string/lefticon"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_programmaticallyaccent"
+        android:title="@string/programmaticallyaccent"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_aligntextinputlayouterror"
+        android:title="@string/aligntextinputlayouterror"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_asteriskredtextinputlayout"
+        android:title="@string/asteriskredtextinputlayout"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
 
 
 </menu>

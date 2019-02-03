@@ -83,7 +83,13 @@
         <activity android:name=".EditText.EditTextWithIconActivity" />
         <activity android:name=".EditText.EditTextDrawableClickActivity" />
         <activity android:name=".EditText.NumericEditTextActivity" />
-        <activity android:name=".EditText.GetEditTextIntActivity"></activity>
+        <activity android:name=".EditText.GetEditTextIntActivity" />
+        <activity android:name=".EditText.FloatingLabelColorActivity" />
+        <activity android:name=".EditText.DisableAnimateActivity" />
+        <activity android:name=".EditText.LeftIconActivity" />
+        <activity android:name=".EditText.ProgrammaticallyAccentActivity" />
+        <activity android:name=".EditText.AlignTextInputLayoutErrorActivity" />
+        <activity android:name=".EditText.AsteriskRedTextInputLayoutActivity"></activity>
     </application>
 
 </manifest>

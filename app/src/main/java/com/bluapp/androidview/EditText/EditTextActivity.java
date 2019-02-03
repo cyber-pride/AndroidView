@@ -138,6 +138,24 @@ public class EditTextActivity extends AppCompatActivity {
             case R.id.action_getedittextint:
                 startActivity(new Intent(EditTextActivity.this, GetEditTextIntActivity.class));
                 return true;
+            case R.id.action_floatinglabelcolor:
+                startActivity(new Intent(EditTextActivity.this, FloatingLabelColorActivity.class));
+                return true;
+            case R.id.action_disableanimate:
+                startActivity(new Intent(EditTextActivity.this, DisableAnimateActivity.class));
+                return true;
+            case R.id.action_lefticon:
+                startActivity(new Intent(EditTextActivity.this, LeftIconActivity.class));
+                return true;
+            case R.id.action_programmaticallyaccent:
+                startActivity(new Intent(EditTextActivity.this, ProgrammaticallyAccentActivity.class));
+                return true;
+            case R.id.action_aligntextinputlayouterror:
+                startActivity(new Intent(EditTextActivity.this, AlignTextInputLayoutErrorActivity.class));
+                return true;
+            case R.id.action_asteriskredtextinputlayout:
+                startActivity(new Intent(EditTextActivity.this, AsteriskRedTextInputLayoutActivity.class));
+                return true;
         }
 
         return true;

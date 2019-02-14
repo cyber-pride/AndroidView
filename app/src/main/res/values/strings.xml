@@ -70,4 +70,23 @@
     <string name="aligntextinputlayouterror">Align TextInputLayout Error</string>
     <string name="asteriskredtextinputlayout">Required Field Hint</string>
     <string name="asteriskred"><font color='#cc0029'>*</font></string>
+    <string name="multiviewrecycler">Multiple View Recycler View</string>
+    <string name="horilistviewrecycler">Horiz List RecyclerView</string>
+    <string name="recyclerwithin">RecyclerView Within</string>
+    <string name="recyclervisible">Recycler Visible Item</string>
+    <string name="recycleronnestedscrollview">Recycler On NestedScrollView</string>
+    <string name="recyclergridlayoutspacing">Recycler GridLayout Spacing</string>
+    <string name="endlessrecycler">Endless Recycler</string>
+    <string name="recycleronclick">RecyclerView OnClick</string>
+    <string name="updaterecycler">Update RecyclerView</string>
+    <string name="swipedismissrecycler">Swipe Dismiss Recycler</string>
+    <string name="expandablelistrecycler">Expandable List Recycler</string>
+    <string name="layoutmanagerrecycler">LayoutManager Recycler</string>
+    <string name="addremoveitemrecycler">Add Remove Item Recycler</string>
+    <string name="searchrecycler">Search Recycler</string>
+    <string name="rippleeffectrecycler">Ripple Effect Recycler</string>
+    <string name="emptyviewrecycler">Empty View Recycler</string>
+    <string name="positionrecycler">Position Recycler</string>
+    <string name="disablescrollrecycler">Disable Scroll Recycler</string>
+    <string name="selecteditemcolorrecycler">Selected Item Color Recycler</string>
 </resources>

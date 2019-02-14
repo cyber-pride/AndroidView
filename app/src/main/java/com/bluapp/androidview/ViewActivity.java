@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.bluapp.androidview.Button.ButtonActivity;
 import com.bluapp.androidview.EditText.EditTextActivity;
+import com.bluapp.androidview.RecyclerView.RecyclerViewActivity1;
 
 public class ViewActivity extends AppCompatActivity {
 
@@ -22,5 +23,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void EditText(View view){
         startActivity(new Intent(ViewActivity.this, EditTextActivity.class));
+    }
+
+    public void RecyclerView(View view){
+        startActivity(new Intent(ViewActivity.this, RecyclerViewActivity1.class));
     }
 }

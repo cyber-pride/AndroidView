@@ -89,7 +89,27 @@
         <activity android:name=".EditText.LeftIconActivity" />
         <activity android:name=".EditText.ProgrammaticallyAccentActivity" />
         <activity android:name=".EditText.AlignTextInputLayoutErrorActivity" />
-        <activity android:name=".EditText.AsteriskRedTextInputLayoutActivity"></activity>
+        <activity android:name=".EditText.AsteriskRedTextInputLayoutActivity" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity1" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity2" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity3" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity4" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity5" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity6" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity7" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity8" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity9" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity10" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity11" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity12" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity13" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity14" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity15" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity16" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity17" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity18" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity19" />
+        <activity android:name=".RecyclerView.RecyclerViewActivity20"></activity>
     </application>
 
 </manifest>

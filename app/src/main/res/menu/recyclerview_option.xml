@@ -1,0 +1,120 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_recyclerviewactivity2"
+        android:title="@string/multiviewrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity3"
+        android:title="@string/horilistviewrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity4"
+        android:title="@string/recyclerwithin"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity5"
+        android:title="@string/recyclervisible"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity6"
+        android:title="@string/recycleronnestedscrollview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity7"
+        android:title="@string/recyclergridlayoutspacing"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity8"
+        android:title="@string/endlessrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity9"
+        android:title="@string/recycleronclick"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity10"
+        android:title="@string/updaterecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity11"
+        android:title="@string/swipedismissrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity12"
+        android:title="@string/expandablelistrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity13"
+        android:title="@string/layoutmanagerrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity14"
+        android:title="@string/addremoveitemrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity15"
+        android:title="@string/searchrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity16"
+        android:title="@string/rippleeffectrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity17"
+        android:title="@string/emptyviewrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity18"
+        android:title="@string/positionrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity19"
+        android:title="@string/disablescrollrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recyclerviewactivity20"
+        android:title="@string/selecteditemcolorrecycler"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+</menu>

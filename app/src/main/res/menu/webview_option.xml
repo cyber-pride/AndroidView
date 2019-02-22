@@ -1,0 +1,145 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_webviewactivity2"
+        android:title="@string/listentowebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity3"
+        android:title="@string/calljsfunction"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity4"
+        android:title="@string/fileuploadwebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity5"
+        android:title="@string/webviewvideo"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity6"
+        android:title="@string/clearcache"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity7"
+        android:title="@string/externalwebpage"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity8"
+        android:title="@string/displaypdf"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity9"
+        android:title="@string/fontfacewebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity10"
+        android:title="@string/webviewbackgroundcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity11"
+        android:title="@string/backtopreviouspage"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity12"
+        android:title="@string/webviewprogressbar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity13"
+        android:title="@string/zoomandpinchcontrol"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity14"
+        android:title="@string/imageinwebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity15"
+        android:title="@string/webviewinfragement"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity16"
+        android:title="@string/disablecacheinwebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity17"
+        android:title="@string/programmaticallywebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity18"
+        android:title="@string/overridewebviewclient"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity19"
+        android:title="@string/preventwebviewrotate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity20"
+        android:title="@string/webviewinscrollview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity21"
+        android:title="@string/paddingaroundwebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity22"
+        android:title="@string/reloadwebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_webviewactivity23"
+        android:title="@string/webviewcookie"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_webviewactivity24"
+        android:title="@string/googlesafebrowsinginwebview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+
+
+</menu>

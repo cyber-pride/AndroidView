@@ -14,8 +14,8 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <meta-data android:name="android.webkit.WebView.EnableSafeBrowsing"
+        <meta-data
+            android:name="android.webkit.WebView.EnableSafeBrowsing"
             android:value="false" />
 
         <activity android:name=".ViewActivity">
@@ -145,7 +145,27 @@
         <activity android:name=".WebView.WebViewActivity21" />
         <activity android:name=".WebView.WebViewActivity22" />
         <activity android:name=".WebView.WebViewActivity23" />
-        <activity android:name=".WebView.WebViewActivity24"></activity>
+        <activity android:name=".WebView.WebViewActivity24" />
+        <activity android:name=".SearchView.SearchViewActivity1" />
+        <activity android:name=".SearchView.SearchViewActivity2" />
+        <activity android:name=".SearchView.SearchViewActivity3" />
+        <activity android:name=".SearchView.SearchViewActivity4" />
+        <activity android:name=".SearchView.SearchViewActivity5" />
+        <activity android:name=".SearchView.SearchViewActivity6" />
+        <activity android:name=".SearchView.SearchViewActivity7" />
+        <activity android:name=".SearchView.SearchViewActivity8" />
+        <activity android:name=".SearchView.SearchViewActivity9" />
+        <activity android:name=".SearchView.SearchViewActivity10" />
+        <activity android:name=".SearchView.SearchViewActivity11" />
+        <activity android:name=".SearchView.SearchViewActivity12" />
+        <activity android:name=".SearchView.SearchViewActivity13" />
+        <activity android:name=".SearchView.SearchViewActivity14" />
+        <activity android:name=".SearchView.SearchViewActivity15" />
+        <activity android:name=".SearchView.SearchViewActivity16" />
+        <activity android:name=".SearchView.SearchViewActivity17" />
+        <activity android:name=".SearchView.SearchViewActivity18" />
+        <activity android:name=".SearchView.SearchViewActivity19"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
     </application>
 
 </manifest>

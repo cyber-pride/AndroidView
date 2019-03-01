@@ -1,0 +1,113 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_searchviewactivity2"
+        android:title="@string/changesearchviewtext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity3"
+        android:title="@string/focusonsearchview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity4"
+        android:title="@string/backgrounddrawable"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity5"
+        android:title="@string/changetextcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity6"
+        android:title="@string/searchviewinfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity7"
+        android:title="@string/searchviewcenter"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity8"
+        android:title="@string/autocollapseactionbar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity9"
+        android:title="@string/dialogsearchview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity10"
+        android:title="@string/roundedcorner"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity11"
+        android:title="@string/disablesearchview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity12"
+        android:title="@string/getsearchviewtext"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity13"
+        android:title="@string/startactivity"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity14"
+        android:title="@string/customfont"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity15"
+        android:title="@string/clearbuttoncolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity16"
+        android:title="@string/detectexpanded"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity17"
+        android:title="@string/autocomplete"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity18"
+        android:title="@string/autoexpand"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_searchviewactivity19"
+        android:title="@string/searchviewintoolbar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

@@ -113,4 +113,23 @@
     <string name="reloadwebview">Reload Webview</string>
     <string name="webviewcookie">Webview Cookie</string>
     <string name="googlesafebrowsinginwebview">Google Safe Browsing</string>
+    <string name="changesearchviewtext">Change SearchView Text</string>
+    <string name="focusonsearchview">Focus On SearchView</string>
+    <string name="backgrounddrawable">Background Drawable</string>
+    <string name="changetextcolor">Change Text Color</string>
+    <string name="searchviewinfragment">SearchView In Fragment</string>
+    <string name="searchviewcenter">SearchView Center</string>
+    <string name="autocollapseactionbar">Auto Collapse Actionbar</string>
+    <string name="searchname">Search Name</string>
+    <string name="dialogsearchview">Dialog Searchview</string>
+    <string name="roundedcorner">Rounded Corner</string>
+    <string name="disablesearchview">Disable Searchview</string>
+    <string name="getsearchviewtext">Get Searchview Text</string>
+    <string name="startactivity">Start Activity</string>
+    <string name="customfont">Custom Font</string>
+    <string name="clearbuttoncolor">Clear Button Color</string>
+    <string name="detectexpanded">Detect Expanded</string>
+    <string name="autocomplete">Auto Complete</string>
+    <string name="autoexpand">Auto Expand</string>
+    <string name="searchviewintoolbar">Searchview In Toolbar</string>
 </resources>

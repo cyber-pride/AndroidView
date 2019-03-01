@@ -8,6 +8,7 @@ import android.view.View;
 import com.bluapp.androidview.Button.ButtonActivity;
 import com.bluapp.androidview.EditText.EditTextActivity;
 import com.bluapp.androidview.RecyclerView.RecyclerViewActivity1;
+import com.bluapp.androidview.SearchView.SearchViewActivity1;
 import com.bluapp.androidview.WebView.WebViewActivity1;
 
 public class ViewActivity extends AppCompatActivity {
@@ -32,5 +33,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void WebView(View view){
         startActivity(new Intent(ViewActivity.this, WebViewActivity1.class));
+    }
+
+    public void SearchView(View view){
+        startActivity(new Intent(ViewActivity.this, SearchViewActivity1.class));
     }
 }

@@ -50,7 +50,7 @@
             android:id="@+id/webView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/editText"
+            android:layout_below="@id/recyclerView"
             android:layout_marginTop="1dp"
             android:background="@color/colorAccent"
             android:onClick="WebView"

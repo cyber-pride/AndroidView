@@ -132,4 +132,23 @@
     <string name="autocomplete">Auto Complete</string>
     <string name="autoexpand">Auto Expand</string>
     <string name="searchviewintoolbar">Searchview In Toolbar</string>
+    <string name="fragmentoptionmenu">Fragment Option Menu</string>
+    <string name="methodfromfragment">Method From Fragment</string>
+    <string name="onbackpressinfragment">OnBackPress In Fragment</string>
+    <string name="fragmentinsideviewpager">Fragment Inside Viewpager</string>
+    <string name="fragmentinsidetab">Fragment Inside Tab</string>
+    <string name="dynamicviewinfragment">Dynamic View In Fragment</string>
+    <string name="fragmenttoactivity">Fragment To Activity</string>
+    <string name="previousfragment">Previous Fragment</string>
+    <string name="viewpagervisible">ViewPager Visible</string>
+    <string name="saverestorestate">Save / Restore State</string>
+    <string name="animatefragment">Animate Fragment</string>
+    <string name="datawithviewmodel">Data With ViewModel</string>
+    <string name="fragmentdialog">Fragment Dialog</string>
+    <string name="removebackstack">Remove Backstack</string>
+    <string name="openfragment">Open Fragment</string>
+    <string name="communicate">Communicate</string>
+    <string name="difference">Difference</string>
+    <string name="replacefragment">Replace Fragment</string>
+    <string name="fragmentonclickxml">Fragment Onclick Xml</string>
 </resources>

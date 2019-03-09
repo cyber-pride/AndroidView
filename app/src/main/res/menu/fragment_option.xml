@@ -1,0 +1,118 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_fragmentactivity2"
+        android:title="@string/fragmentoptionmenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity3"
+        android:title="@string/methodfromfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity4"
+        android:title="@string/onbackpressinfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity5"
+        android:title="@string/fragmentinsideviewpager"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity6"
+        android:title="@string/fragmentinsidetab"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity7"
+        android:title="@string/dynamicviewinfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity8"
+        android:title="@string/fragmenttoactivity"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity9"
+        android:title="@string/previousfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity10"
+        android:title="@string/viewpagervisible"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity11"
+        android:title="@string/saverestorestate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity12"
+        android:title="@string/animatefragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity13"
+        android:title="@string/datawithviewmodel"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity14"
+        android:title="@string/fragmentdialog"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity15"
+        android:title="@string/removebackstack"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity16"
+        android:title="@string/openfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity17"
+        android:title="@string/communicate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity18"
+        android:title="@string/difference"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity19"
+        android:title="@string/replacefragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_fragmentactivity20"
+        android:title="@string/fragmentonclickxml"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

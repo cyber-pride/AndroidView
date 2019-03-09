@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ededed">
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/add"/>
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Fragment"
+        android:layout_above="@+id/addtobackstack"
+        android:gravity="center"
+        android:layout_marginBottom="1dp"
+        android:background="@color/colorAccent"/>
+    <Button
+        android:id="@+id/addtobackstack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add To BackStack"
+        android:layout_above="@+id/replace"
+        android:gravity="center"
+        android:layout_marginBottom="1dp"
+        android:background="@color/colorAccent"/>
+    <Button
+        android:id="@+id/replace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Replace Fragment"
+        android:gravity="center"
+        android:background="@color/colorAccent"/>
+
+</RelativeLayout>

@@ -164,8 +164,29 @@
         <activity android:name=".SearchView.SearchViewActivity16" />
         <activity android:name=".SearchView.SearchViewActivity17" />
         <activity android:name=".SearchView.SearchViewActivity18" />
-        <activity android:name=".SearchView.SearchViewActivity19"
+        <activity
+            android:name=".SearchView.SearchViewActivity19"
             android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity android:name=".Fragment.FragmentActivity1" />
+        <activity android:name=".Fragment.FragmentActivity2" />
+        <activity android:name=".Fragment.FragmentActivity3" />
+        <activity android:name=".Fragment.FragmentActivity4" />
+        <activity android:name=".Fragment.FragmentActivity5" />
+        <activity android:name=".Fragment.FragmentActivity6" />
+        <activity android:name=".Fragment.FragmentActivity7" />
+        <activity android:name=".Fragment.FragmentActivity8" />
+        <activity android:name=".Fragment.FragmentActivity9" />
+        <activity android:name=".Fragment.FragmentActivity10" />
+        <activity android:name=".Fragment.FragmentActivity11" />
+        <activity android:name=".Fragment.FragmentActivity12" />
+        <activity android:name=".Fragment.FragmentActivity13" />
+        <activity android:name=".Fragment.FragmentActivity14" />
+        <activity android:name=".Fragment.FragmentActivity15" />
+        <activity android:name=".Fragment.FragmentActivity16" />
+        <activity android:name=".Fragment.FragmentActivity17" />
+        <activity android:name=".Fragment.FragmentActivity18" />
+        <activity android:name=".Fragment.FragmentActivity19" />
+        <activity android:name=".Fragment.FragmentActivity20"></activity>
     </application>
 
 </manifest>

@@ -186,7 +186,52 @@
         <activity android:name=".Fragment.FragmentActivity17" />
         <activity android:name=".Fragment.FragmentActivity18" />
         <activity android:name=".Fragment.FragmentActivity19" />
-        <activity android:name=".Fragment.FragmentActivity20"></activity>
+        <activity android:name=".Fragment.FragmentActivity20" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity1"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity2"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity3"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity4"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity5"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity6"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity7"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity8"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity9"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity10"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity11"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity
+            android:name=".NavigationView.NavigationViewActivity12"
+            android:theme="@style/ToolBarTheme.NoActionBar" />
+        <activity android:name=".NavigationView.NavigationViewActivity13" />
+        <activity android:name=".NavigationView.NavigationViewActivity14" />
+        <activity android:name=".NavigationView.NavigationViewActivity15" />
+        <activity android:name=".NavigationView.NavigationViewActivity16" />
+        <activity android:name=".NavigationView.NavigationViewActivity17" />
+        <activity android:name=".NavigationView.NavigationViewActivity18" />
+        <activity android:name=".NavigationView.NavigationViewActivity19" />
+        <activity android:name=".NavigationView.NavigationViewActivity20" />
+        <activity android:name=".NavigationView.NavigationViewActivity21"></activity>
     </application>
 
 </manifest>

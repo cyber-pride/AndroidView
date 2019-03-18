@@ -1,0 +1,124 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_navigationviewactivity2"
+        android:title="@string/hidedrawermenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity3"
+        android:title="@string/fullwidthdrawer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity4"
+        android:title="@string/drawerbehindstatus"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity5"
+        android:title="@string/detectdrawer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity6"
+        android:title="@string/menutextcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity7"
+        android:title="@string/indicatorcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity8"
+        android:title="@string/withouttoolbar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity9"
+        android:title="@string/removedrawericon"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity10"
+        android:title="@string/disabledrawerfragment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity11"
+        android:title="@string/recyclerviewindrawer"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity12"
+        android:title="@string/dividercolorprogrammatically"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity13"
+        android:title="@string/dropshadow"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity14"
+        android:title="@string/textfontfamily"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity15"
+        android:title="@string/itemtitlesize"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity16"
+        android:title="@string/inflateprogrammatically"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity17"
+        android:title="@string/itemtextcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity18"
+        android:title="@string/selecteditemcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity19"
+        android:title="@string/viewiconpadding"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity20"
+        android:title="@string/dividerinbottom"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_navigationviewactivity21"
+        android:title="@string/removeiconanimation"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

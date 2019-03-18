@@ -8,6 +8,7 @@ import android.view.View;
 import com.bluapp.androidview.Button.ButtonActivity;
 import com.bluapp.androidview.EditText.EditTextActivity;
 import com.bluapp.androidview.Fragment.FragmentActivity1;
+import com.bluapp.androidview.NavigationView.NavigationViewActivity1;
 import com.bluapp.androidview.RecyclerView.RecyclerViewActivity1;
 import com.bluapp.androidview.SearchView.SearchViewActivity1;
 import com.bluapp.androidview.WebView.WebViewActivity1;
@@ -42,5 +43,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void Fragment(View view){
         startActivity(new Intent(ViewActivity.this, FragmentActivity1.class));
+    }
+
+    public void NavigationView(View view){
+        startActivity(new Intent(ViewActivity.this, NavigationViewActivity1.class));
     }
 }

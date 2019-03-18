@@ -151,4 +151,27 @@
     <string name="difference">Difference</string>
     <string name="replacefragment">Replace Fragment</string>
     <string name="fragmentonclickxml">Fragment Onclick Xml</string>
+    <string name="home">Home</string>
+    <string name="hidedrawermenu">Hide Drawer Menu</string>
+    <string name="blog">Blog</string>
+    <string name="App">App</string>
+    <string name="drawerbehindstatus">Drawer Behind  Status</string>
+    <string name="fullwidthdrawer">Full Width Drawer</string>
+    <string name="detectdrawer">Detect Drawer</string>
+    <string name="menutextcolor">Menu Text Color</string>
+    <string name="indicatorcolor">Indicator Color</string>
+    <string name="withouttoolbar">Without Toolbar</string>
+    <string name="removedrawericon">Remove Drawer Icon</string>
+    <string name="disabledrawerfragment">Disable Drawer Fragment</string>
+    <string name="recyclerviewindrawer">RecyclerView in Drawer</string>
+    <string name="dividercolorprogrammatically">Divider Color Programmatically</string>
+    <string name="dropshadow">Drop Shadow</string>
+    <string name="textfontfamily">Text Font Family</string>
+    <string name="itemtitlesize">Item Title Size</string>
+    <string name="inflateprogrammatically">Inflate Programmatically</string>
+    <string name="itemtextcolor">Item Text Color</string>
+    <string name="selecteditemcolor">Selected Item color</string>
+    <string name="viewiconpadding">View Icon Padding</string>
+    <string name="dividerinbottom">Divider in Bottom</string>
+    <string name="removeiconanimation">Remove Icon Animation</string>
 </resources>

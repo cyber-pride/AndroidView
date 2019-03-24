@@ -174,4 +174,23 @@
     <string name="viewiconpadding">View Icon Padding</string>
     <string name="dividerinbottom">Divider in Bottom</string>
     <string name="removeiconanimation">Remove Icon Animation</string>
+    <string name="menuitemtextcolor">Menu Item Text Color</string>
+    <string name="menuitemtextsize">Menu Item Text Size</string>
+    <string name="menuitemtextfont">Menu Item Text Font</string>
+    <string name="menuitemselectedcolor">Menu Item Selected Color</string>
+    <string name="menuitemiconcolor">Menu Item Icon Color</string>
+    <string name="detectclickontab">Detect Click On Tab</string>
+    <string name="tabhostandtabwidget">Tabhost And Tabwidget</string>
+    <string name="ontabchangelistener">OnTabChange Listener</string>
+    <string name="tabindicatorbackground">Tab Indicator Background</string>
+    <string name="currenttabposition">Current Tab Position</string>
+    <string name="viewpagerwithbottomdots">Viewpager With Bottom Dots</string>
+    <string name="storefragmentstate">Store Fragment State</string>
+    <string name="dynamicallyaddviewpager">Dynamically Add ViewPager</string>
+    <string name="replacefragmentinviewpager">Replace Fragment In ViewPager</string>
+    <string name="disableswipepaging">Disable Swipe Paging</string>
+    <string name="viewpagerinanother">ViewPager In Another</string>
+    <string name="viewpagernestedscrollview">Viewpager Nested Scrollview</string>
+    <string name="detectviewpager">Detect ViewPager</string>
+    <string name="currentposition">Current Position</string>
 </resources>

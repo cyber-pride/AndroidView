@@ -1,0 +1,119 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager2"
+        android:title="@string/menuitemtextcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager3"
+        android:title="@string/menuitemtextsize"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager4"
+        android:title="@string/menuitemtextfont"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager5"
+        android:title="@string/menuitemselectedcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager6"
+        android:title="@string/menuitemiconcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager7"
+        android:title="@string/detectclickontab"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager8"
+        android:title="@string/tabhostandtabwidget"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager9"
+        android:title="@string/ontabchangelistener"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager10"
+        android:title="@string/tabindicatorbackground"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager11"
+        android:title="@string/currenttabposition"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager12"
+        android:title="@string/viewpagerwithbottomdots"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager13"
+        android:title="@string/storefragmentstate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager14"
+        android:title="@string/dynamicallyaddviewpager"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager15"
+        android:title="@string/replacefragmentinviewpager"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager16"
+        android:title="@string/disableswipepaging"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager17"
+        android:title="@string/viewpagerinanother"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager18"
+        android:title="@string/viewpagernestedscrollview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager19"
+        android:title="@string/detectviewpager"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tablayoutandviewpager20"
+        android:title="@string/currentposition"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

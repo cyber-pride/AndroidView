@@ -231,7 +231,29 @@
         <activity android:name=".NavigationView.NavigationViewActivity18" />
         <activity android:name=".NavigationView.NavigationViewActivity19" />
         <activity android:name=".NavigationView.NavigationViewActivity20" />
-        <activity android:name=".NavigationView.NavigationViewActivity21"></activity>
+        <activity android:name=".NavigationView.NavigationViewActivity21" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity1" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity2" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity3" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity4" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity5" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity6" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity7" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity8" />
+        <activity android:name=".TabLayoutAndViewPager.TabHostActivity" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity9" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity10" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity11" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity12" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity13" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity14" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity15" />
+        <activity android:name=".TabLayoutAndViewPager.ViewPagerFragment15" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity16" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity17" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity18" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity19" />
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity20"></activity>
     </application>
 
 </manifest>

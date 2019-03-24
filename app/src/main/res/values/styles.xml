@@ -50,5 +50,12 @@
         <item name="android:textSize">20sp</item>
     </style>
 
+    <style name="TabLayoutTextSize" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TabLayoutTextFont" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="fontFamily">@font/font</item>
+    </style>
 
 </resources>

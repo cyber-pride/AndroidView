@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.bluapp.androidview.Button.ButtonActivity;
+import com.bluapp.androidview.DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity1;
 import com.bluapp.androidview.EditText.EditTextActivity;
 import com.bluapp.androidview.Fragment.FragmentActivity1;
 import com.bluapp.androidview.NavigationView.NavigationViewActivity1;
@@ -52,5 +53,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void TabLayoutAndViewPager(View view){
         startActivity(new Intent(ViewActivity.this, TabLayoutAndViewPagerActivity1.class));
+    }
+
+    public void DatePickerAndTimePicker(View view){
+        startActivity(new Intent(ViewActivity.this, DatePickerAndTimePickerActivity1.class));
     }
 }

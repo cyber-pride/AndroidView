@@ -1,0 +1,119 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity2"
+        android:title="@string/disablepastdate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity3"
+        android:title="@string/backgroundcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity4"
+        android:title="@string/defaultdate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity5"
+        android:title="@string/disablefuturedate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity6"
+        android:title="@string/fragmentdialogdatepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity7"
+        android:title="@string/maximumdate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity8"
+        android:title="@string/selecteddate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity9"
+        android:title="@string/basedonotherdatepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity10"
+        android:title="@string/minandmaxdate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity11"
+        android:title="@string/timepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity12"
+        android:title="@string/dynamicallytimepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity13"
+        android:title="@string/gettimepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity14"
+        android:title="@string/minandmaxtime"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity15"
+        android:title="@string/fragmenttimepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity16"
+        android:title="@string/localetimepicker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity17"
+        android:title="@string/timepickertime"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity18"
+        android:title="@string/dateobject"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity19"
+        android:title="@string/disablepasttime"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_datepickerandtimepickeractivity20"
+        android:title="@string/timeintextview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

@@ -253,7 +253,27 @@
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity17" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity18" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity19" />
-        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity20"></activity>
+        <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity20" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity1" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity2" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity3" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity4" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity5" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity6" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity7" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity8" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity9" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity10" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity11" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity12" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity13" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity14" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity15" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity16" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity17" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity18" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity19" />
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity20"></activity>
     </application>
 
 </manifest>

@@ -193,4 +193,23 @@
     <string name="viewpagernestedscrollview">Viewpager Nested Scrollview</string>
     <string name="detectviewpager">Detect ViewPager</string>
     <string name="currentposition">Current Position</string>
+    <string name="disablepastdate">Disable Past Date</string>
+    <string name="backgroundcolor">Background Color</string>
+    <string name="defaultdate">Default Date</string>
+    <string name="disablefuturedate">Disable Future Date</string>
+    <string name="fragmentdialogdatepicker">Fragment Dialog Date Picker</string>
+    <string name="maximumdate">Maximum Date</string>
+    <string name="selecteddate">Selected Date</string>
+    <string name="basedonotherdatepicker">Based On Other Date Picker</string>
+    <string name="minandmaxdate">Min And Max Date</string>
+    <string name="timepicker">TimePicker</string>
+    <string name="dynamicallytimepicker">Dynamically TimePicker</string>
+    <string name="gettimepicker">Get TimePicker</string>
+    <string name="minandmaxtime">Min And Max Time</string>
+    <string name="fragmenttimepicker">Fragment Time Picker</string>
+    <string name="localetimepicker">Locale Time Picker</string>
+    <string name="timepickertime">TimePicker Time</string>
+    <string name="dateobject">Date Object</string>
+    <string name="disablepasttime">Disable Past Time</string>
+    <string name="timeintextview">Time In TextView</string>
 </resources>

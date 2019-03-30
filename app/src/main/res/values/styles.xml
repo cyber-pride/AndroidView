@@ -58,4 +58,8 @@
         <item name="fontFamily">@font/font</item>
     </style>
 
+    <style name="DatePickBackgroundColor" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:colorAccent">@color/colorPrimaryDark</item>
+    </style>
+
 </resources>

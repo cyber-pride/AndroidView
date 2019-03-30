@@ -111,6 +111,19 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/datePickerandtimepicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tablayoutandviewpager"
+            android:layout_marginTop="1dp"
+            android:background="@color/colorAccent"
+            android:onClick="DatePickerAndTimePicker"
+            android:text="DatePicker and TimePicker"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
 
 
     </RelativeLayout>

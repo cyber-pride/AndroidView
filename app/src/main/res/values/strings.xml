@@ -212,4 +212,24 @@
     <string name="dateobject">Date Object</string>
     <string name="disablepasttime">Disable Past Time</string>
     <string name="timeintextview">Time In TextView</string>
+    <string name="playmp4file">Play Mp4 File</string>
+    <string name="scalevideoview">Scale VideoView</string>
+    <string name="videoviewblackscreen">VideoView Black Screen</string>
+    <string name="videoviewframe">VideoView Frame</string>
+    <string name="rotatevideoview">Rotate VideoView</string>
+    <string name="rtspvideoview">Rtsp VideoView</string>
+    <string name="alertdialogvideoview">AlertDialog VideoView</string>
+    <string name="youtubevideoview">Youtube VideoView</string>
+    <string name="fullscreenvideoview">Fullscreen VideoView</string>
+    <string name="replayvideoview">Replay VideoView</string>
+    <string name="requestaudiofocus">Request Audio Focus</string>
+    <string name="videoviewsubtitle">VideoView Subtitle</string>
+    <string name="localsdvideoview">Local Sd VideoView</string>
+    <string name="playandpause">Play And Pause</string>
+    <string name="detectpause">Detect Pause</string>
+    <string name="streamvideo">Stream Video</string>
+    <string name="sequencevideoview">Sequence VideoView</string>
+    <string name="custommediacontroller">Custom MediaController</string>
+    <string name="zoomvideoview">Zoom VideoView</string>
+    <string name="description">Description</string>
 </resources>

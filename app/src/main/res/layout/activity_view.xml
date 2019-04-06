@@ -124,6 +124,19 @@
             android:textSize="15sp"
             android:textStyle="bold" />
 
+        <Button
+            android:id="@+id/videoview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/datePickerandtimepicker"
+            android:layout_marginTop="1dp"
+            android:background="@color/colorAccent"
+            android:onClick="VideoView"
+            android:text="VideoView"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
 
 
     </RelativeLayout>

@@ -1,0 +1,118 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_videoviewactivity2"
+        android:title="@string/playmp4file"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity3"
+        android:title="@string/scalevideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity4"
+        android:title="@string/videoviewblackscreen"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity5"
+        android:title="@string/videoviewframe"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity6"
+        android:title="@string/rotatevideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity7"
+        android:title="@string/rtspvideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity8"
+        android:title="@string/alertdialogvideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity9"
+        android:title="@string/youtubevideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity10"
+        android:title="@string/fullscreenvideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity11"
+        android:title="@string/replayvideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity12"
+        android:title="@string/requestaudiofocus"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity13"
+        android:title="@string/videoviewsubtitle"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity14"
+        android:title="@string/localsdvideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity15"
+        android:title="@string/playandpause"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity16"
+        android:title="@string/detectpause"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity17"
+        android:title="@string/streamvideo"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity18"
+        android:title="@string/sequencevideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity19"
+        android:title="@string/custommediacontroller"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_videoviewactivity20"
+        android:title="@string/zoomvideoview"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

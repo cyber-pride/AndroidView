@@ -248,7 +248,6 @@
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity13" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity14" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity15" />
-        <activity android:name=".TabLayoutAndViewPager.ViewPagerFragment15" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity16" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity17" />
         <activity android:name=".TabLayoutAndViewPager.TabLayoutAndViewPagerActivity18" />
@@ -273,7 +272,29 @@
         <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity17" />
         <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity18" />
         <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity19" />
-        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity20"></activity>
+        <activity android:name=".DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity20" />
+        <activity android:name=".VideoView.VideoViewActivity1" />
+        <activity android:name=".VideoView.VideoViewActivity2" />
+        <activity android:name=".VideoView.VideoViewActivity3" />
+        <activity android:name=".VideoView.VideoViewActivity4" />
+        <activity android:name=".VideoView.VideoViewActivity5" />
+        <activity android:name=".VideoView.VideoViewActivity6" />
+        <activity
+            android:name=".VideoView.VideoViewActivity7"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name=".VideoView.VideoViewActivity8" />
+        <activity android:name=".VideoView.VideoViewActivity9" />
+        <activity android:name=".VideoView.VideoViewActivity10" />
+        <activity android:name=".VideoView.VideoViewActivity11" />
+        <activity android:name=".VideoView.VideoViewActivity12" />
+        <activity android:name=".VideoView.VideoViewActivity13" />
+        <activity android:name=".VideoView.VideoViewActivity14" />
+        <activity android:name=".VideoView.VideoViewActivity15" />
+        <activity android:name=".VideoView.VideoViewActivity16" />
+        <activity android:name=".VideoView.VideoViewActivity17" />
+        <activity android:name=".VideoView.VideoViewActivity18" />
+        <activity android:name=".VideoView.VideoViewActivity19" />
+        <activity android:name=".VideoView.VideoViewActivity20"></activity>
     </application>
 
 </manifest>

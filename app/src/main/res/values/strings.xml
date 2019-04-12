@@ -232,4 +232,25 @@
     <string name="custommediacontroller">Custom MediaController</string>
     <string name="zoomvideoview">Zoom VideoView</string>
     <string name="description">Description</string>
+    <string name="hidemenuitem">Hide Menu Item</string>
+    <string name="handlemenuitemclick">Handle Menu Item Click</string>
+    <string name="updatemenuitem">Update Menu Item</string>
+    <string name="onprepareoptionsmenumethod">OnPrepareOptionsMenu Method</string>
+    <string name="backgroundcolormenu">Background Color Menu</string>
+    <string name="divideinmenuitem">Divide In Menu Item</string>
+    <string name="groupmenuitem">Group Menu Item</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="searchviewmenu">SearchView Menu</string>
+    <string name="menuinallactivity">Menu In All Activity</string>
+    <string name="menuwithicon">Menu With Icon</string>
+    <string name="user">User</string>
+    <string name="video">Video</string>
+    <string name="menudifferenttab">Menu Different Tab</string>
+    <string name="actionviewclassmenu">ActionViewClass Menu</string>
+    <string name="actionlayoutmenu">ActionLayout Menu</string>
+    <string name="badge">Badges</string>
+    <string name="recyclerwithmenu">Recycler With Menu</string>
+    <string name="contextlistnermenu">Context Listner Menu</string>
+    <string name="customcontextmenu">Custom Context Menu</string>
 </resources>

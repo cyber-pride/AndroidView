@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/home">
+    <menu>
+    <group android:id="@+id/home">
+    <item
+        android:id="@+id/action_home"
+        android:title="@string/home"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_blog"
+            android:title="@string/blog"
+            android:orderInCategory="100"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_App"
+            android:title="@string/App"
+            android:orderInCategory="100"
+            app:showAsAction="never" />
+    </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/share"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_send"
+        android:title="@string/send"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>

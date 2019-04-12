@@ -294,7 +294,31 @@
         <activity android:name=".VideoView.VideoViewActivity17" />
         <activity android:name=".VideoView.VideoViewActivity18" />
         <activity android:name=".VideoView.VideoViewActivity19" />
-        <activity android:name=".VideoView.VideoViewActivity20"></activity>
+        <activity android:name=".VideoView.VideoViewActivity20" />
+        <activity android:name=".Menu.MenuActivity1" />
+        <activity android:name=".Menu.MenuActivity2" />
+        <activity android:name=".Menu.MenuActivity3" />
+        <activity android:name=".Menu.MenuActivity4" />
+        <activity android:name=".Menu.MenuActivity5" />
+        <activity
+            android:name=".Menu.MenuActivity6"
+            android:theme="@style/MenuActivity6Theme" />
+        <activity
+            android:name=".Menu.MenuActivity7"
+            android:theme="@style/MenuActivity7Theme" />
+        <activity android:name=".Menu.MenuActivity8" />
+        <activity android:name=".Menu.MenuActivity9" />
+        <activity android:name=".Menu.MenuActivity10" />
+        <activity android:name=".Menu.MenuActivity11" />
+        <activity android:name=".Menu.MenuActivity12" />
+        <activity android:name=".Menu.MenuActivity13" />
+        <activity android:name=".Menu.MenuActivity14" />
+        <activity android:name=".Menu.MenuActivity15" />
+        <activity android:name=".Menu.MenuActivity16" />
+        <activity android:name=".Menu.MenuActivity17" />
+        <activity android:name=".Menu.MenuActivity18" />
+        <activity android:name=".Menu.MenuActivity19" />
+        <activity android:name=".Menu.MenuActivity20"></activity>
     </application>
 
 </manifest>

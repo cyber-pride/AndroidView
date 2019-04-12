@@ -1,0 +1,120 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_menu2"
+        android:title="@string/hidemenuitem"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu3"
+        android:title="@string/handlemenuitemclick"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu4"
+        android:title="@string/updatemenuitem"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu5"
+        android:title="@string/onprepareoptionsmenumethod"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu6"
+        android:title="@string/backgroundcolormenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu7"
+        android:title="@string/menuitemtextcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu8"
+        android:title="@string/menuitemtextfont"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu9"
+        android:title="@string/menuitemiconcolor"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu10"
+        android:title="@string/divideinmenuitem"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu11"
+        android:title="@string/groupmenuitem"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu12"
+        android:title="@string/searchviewmenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu13"
+        android:title="@string/menuinallactivity"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu14"
+        android:title="@string/menuwithicon"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu15"
+        android:title="@string/menudifferenttab"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu16"
+        android:title="@string/actionviewclassmenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu17"
+        android:title="@string/actionlayoutmenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu18"
+        android:title="@string/recyclerwithmenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu19"
+        android:title="@string/contextlistnermenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu20"
+        android:title="@string/customcontextmenu"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+</menu>

@@ -9,6 +9,7 @@ import com.bluapp.androidview.Button.ButtonActivity;
 import com.bluapp.androidview.DatePickerAndTimePickerActivity.DatePickerAndTimePickerActivity1;
 import com.bluapp.androidview.EditText.EditTextActivity;
 import com.bluapp.androidview.Fragment.FragmentActivity1;
+import com.bluapp.androidview.Menu.MenuActivity1;
 import com.bluapp.androidview.NavigationView.NavigationViewActivity1;
 import com.bluapp.androidview.RecyclerView.RecyclerViewActivity1;
 import com.bluapp.androidview.SearchView.SearchViewActivity1;
@@ -62,5 +63,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void VideoView(View view){
         startActivity(new Intent(ViewActivity.this, VideoViewActivity1.class));
+    }
+
+    public void Menu(View view){
+        startActivity(new Intent(ViewActivity.this, MenuActivity1.class));
     }
 }

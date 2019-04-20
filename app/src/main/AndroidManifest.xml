@@ -3,6 +3,7 @@
     package="com.bluapp.androidview">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
@@ -318,7 +319,27 @@
         <activity android:name=".Menu.MenuActivity17" />
         <activity android:name=".Menu.MenuActivity18" />
         <activity android:name=".Menu.MenuActivity19" />
-        <activity android:name=".Menu.MenuActivity20"></activity>
+        <activity android:name=".Menu.MenuActivity20" />
+        <activity android:name=".Retrofit.RetrofitActivity1" />
+        <activity android:name=".Retrofit.RetrofitActivity2" />
+        <activity android:name=".Retrofit.RetrofitActivity3" />
+        <activity android:name=".Retrofit.RetrofitActivity4" />
+        <activity android:name=".Retrofit.RetrofitActivity5" />
+        <activity android:name=".Retrofit.RetrofitActivity6" />
+        <activity android:name=".Retrofit.RetrofitActivity7" />
+        <activity android:name=".Retrofit.RetrofitActivity8" />
+        <activity android:name=".Retrofit.RetrofitActivity9" />
+        <activity android:name=".Retrofit.RetrofitActivity10" />
+        <activity android:name=".Retrofit.RetrofitActivity11" />
+        <activity android:name=".Retrofit.RetrofitActivity12" />
+        <activity android:name=".Retrofit.RetrofitActivity13" />
+        <activity android:name=".Retrofit.RetrofitActivity14" />
+        <activity android:name=".Retrofit.RetrofitActivity15" />
+        <activity android:name=".Retrofit.RetrofitActivity16" />
+        <activity android:name=".Retrofit.RetrofitActivity17" />
+        <activity android:name=".Retrofit.RetrofitActivity18" />
+        <activity android:name=".Retrofit.RetrofitActivity19" />
+        <activity android:name=".Retrofit.RetrofitActivity20"></activity>
     </application>
 
 </manifest>

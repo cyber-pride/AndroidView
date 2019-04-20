@@ -12,6 +12,7 @@ import com.bluapp.androidview.Fragment.FragmentActivity1;
 import com.bluapp.androidview.Menu.MenuActivity1;
 import com.bluapp.androidview.NavigationView.NavigationViewActivity1;
 import com.bluapp.androidview.RecyclerView.RecyclerViewActivity1;
+import com.bluapp.androidview.Retrofit.RetrofitActivity1;
 import com.bluapp.androidview.SearchView.SearchViewActivity1;
 import com.bluapp.androidview.TabLayoutAndViewPager.TabLayoutAndViewPagerActivity1;
 import com.bluapp.androidview.VideoView.VideoViewActivity1;
@@ -67,5 +68,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void Menu(View view){
         startActivity(new Intent(ViewActivity.this, MenuActivity1.class));
+    }
+
+    public void Retrofit(View view){
+        startActivity(new Intent(ViewActivity.this, RetrofitActivity1.class));
     }
 }

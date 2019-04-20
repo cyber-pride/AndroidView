@@ -1,0 +1,120 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_retrofit2"
+        android:title="@string/postmethod"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit3"
+        android:title="@string/putmethod"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit4"
+        android:title="@string/deletemethod"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit5"
+        android:title="@string/networktimeout"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit6"
+        android:title="@string/rawpostjson"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit7"
+        android:title="@string/multipartpost"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit8"
+        android:title="@string/removecharacter"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit9"
+        android:title="@string/cacheretrofit"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit10"
+        android:title="@string/logging"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit11"
+        android:title="@string/interceptorheader"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit12"
+        android:title="@string/statuscode"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit13"
+        android:title="@string/parsejson"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit14"
+        android:title="@string/basicauth"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit15"
+        android:title="@string/nestedjson"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit16"
+        android:title="@string/rxjavaretrofit"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit17"
+        android:title="@string/postparameter"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit18"
+        android:title="@string/converterfactory"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit19"
+        android:title="@string/customcookie"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_retrofit20"
+        android:title="@string/cancelrequest"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+
+</menu>

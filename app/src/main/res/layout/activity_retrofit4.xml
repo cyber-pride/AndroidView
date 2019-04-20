@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/postidinput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/postid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/postid"
+            android:inputType="number"
+            android:maxLines="1"
+            android:singleLine="true" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:layout_below="@id/postidinput"
+        android:textColor="#ffffff"
+        android:text="delete"/>
+
+
+
+</RelativeLayout>

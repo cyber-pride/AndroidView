@@ -16,6 +16,7 @@ import com.bluapp.androidview.Retrofit.RetrofitActivity1;
 import com.bluapp.androidview.SearchView.SearchViewActivity1;
 import com.bluapp.androidview.TabLayoutAndViewPager.TabLayoutAndViewPagerActivity1;
 import com.bluapp.androidview.VideoView.VideoViewActivity1;
+import com.bluapp.androidview.Volley.VolleyActivity1;
 import com.bluapp.androidview.WebView.WebViewActivity1;
 
 public class ViewActivity extends AppCompatActivity {
@@ -72,5 +73,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void Retrofit(View view){
         startActivity(new Intent(ViewActivity.this, RetrofitActivity1.class));
+    }
+
+    public void Volley(View view){
+        startActivity(new Intent(ViewActivity.this, VolleyActivity1.class));
     }
 }

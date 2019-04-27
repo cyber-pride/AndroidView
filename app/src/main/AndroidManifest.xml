@@ -339,7 +339,27 @@
         <activity android:name=".Retrofit.RetrofitActivity17" />
         <activity android:name=".Retrofit.RetrofitActivity18" />
         <activity android:name=".Retrofit.RetrofitActivity19" />
-        <activity android:name=".Retrofit.RetrofitActivity20"></activity>
+        <activity android:name=".Retrofit.RetrofitActivity20" />
+        <activity android:name=".Volley.VolleyActivity1" />
+        <activity android:name=".Volley.VolleyActivity2" />
+        <activity android:name=".Volley.VolleyActivity3" />
+        <activity android:name=".Volley.VolleyActivity4" />
+        <activity android:name=".Volley.VolleyActivity5" />
+        <activity android:name=".Volley.VolleyActivity6" />
+        <activity android:name=".Volley.VolleyActivity7" />
+        <activity android:name=".Volley.VolleyActivity8" />
+        <activity android:name=".Volley.VolleyActivity9" />
+        <activity android:name=".Volley.VolleyActivity10" />
+        <activity android:name=".Volley.VolleyActivity11" />
+        <activity android:name=".Volley.VolleyActivity12" />
+        <activity android:name=".Volley.VolleyActivity13" />
+        <activity android:name=".Volley.VolleyActivity14" />
+        <activity android:name=".Volley.VolleyActivity15" />
+        <activity android:name=".Volley.VolleyActivity16" />
+        <activity android:name=".Volley.VolleyActivity17" />
+        <activity android:name=".Volley.VolleyActivity18" />
+        <activity android:name=".Volley.VolleyActivity19" />
+        <activity android:name=".Volley.VolleyActivity20"></activity>
     </application>
 
 </manifest>

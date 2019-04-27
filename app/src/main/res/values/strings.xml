@@ -282,4 +282,17 @@
     <string name="converterfactory">Converter Factory</string>
     <string name="customcookie">Custom Cookie</string>
     <string name="cancelrequest">Cancel Request</string>
+    <string name="usevolley">Use Volley</string>
+    <string name="getmethod">Get Method</string>
+    <string name="getmethodparameter">Get Method Parameter</string>
+    <string name="postmethodparameter">Post Method Parameter</string>
+    <string name="putmethodparameter">Put Method Parameter</string>
+    <string name="jsonresponse">Json Response</string>
+    <string name="requestcache">Request Cache</string>
+    <string name="customheader">Custom Header</string>
+    <string name="tokenauth">Token Auth</string>
+    <string name="sslsupport">Ssl Support</string>
+    <string name="downloadimage">Download Image</string>
+    <string name="disklruimagecache">DiskLruImageCache</string>
+    <string name="queuerequest">Queue Request</string>
 </resources>

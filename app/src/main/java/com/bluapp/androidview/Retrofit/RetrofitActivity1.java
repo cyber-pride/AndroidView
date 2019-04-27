@@ -34,7 +34,6 @@ public class RetrofitActivity1 extends AppCompatActivity {
     private adapter recyclerAdapter;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -295,4 +295,23 @@
     <string name="downloadimage">Download Image</string>
     <string name="disklruimagecache">DiskLruImageCache</string>
     <string name="queuerequest">Queue Request</string>
+    <string name="updatedata">Update Data</string>
+    <string name="deletedata">Delete Data</string>
+    <string name="readdata">Read Data</string>
+    <string name="roomtojson">Room to json</string>
+    <string name="backuptosdcard">Backup to Sdcard</string>
+    <string name="migrate">Migrate</string>
+    <string name="transactionrollback">Transaction Rollback</string>
+    <string name="tableonfirstrun">Table on First Run</string>
+    <string name="onetoone">One to One</string>
+    <string name="limit">Limit</string>
+    <string name="populate">populate</string>
+    <string name="livedataandviewmodel">LiveData and ViewModel</string>
+    <string name="roomtocsv">Room to Csv</string>
+    <string name="rxjavasingle">Rxjava Single</string>
+    <string name="rxjavaobservable">Rxjava Observable</string>
+    <string name="livedata">LiveData</string>
+    <string name="typeconverter">Type Converter</string>
+    <string name="onetomany">One to Many</string>
+    <string name="manytomany">Many to Many</string>
 </resources>

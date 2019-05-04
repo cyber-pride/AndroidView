@@ -359,7 +359,27 @@
         <activity android:name=".Volley.VolleyActivity17" />
         <activity android:name=".Volley.VolleyActivity18" />
         <activity android:name=".Volley.VolleyActivity19" />
-        <activity android:name=".Volley.VolleyActivity20"></activity>
+        <activity android:name=".Volley.VolleyActivity20" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity1" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity2" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity3" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity4" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity5" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity6" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity7" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity8" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity9" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity10" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity20" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity19" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity18" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity17" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity16" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity15" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity14" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity13" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity11" />
+        <activity android:name=".RoomDatabase.RoomDatabaseActivity12"></activity>
     </application>
 
 </manifest>

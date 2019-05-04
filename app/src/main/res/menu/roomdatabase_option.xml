@@ -1,0 +1,117 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity2"
+        android:title="@string/updatedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity3"
+        android:title="@string/deletedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity4"
+        android:title="@string/readdata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity5"
+        android:title="@string/roomtojson"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity6"
+        android:title="@string/backuptosdcard"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity7"
+        android:title="@string/migrate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity8"
+        android:title="@string/transactionrollback"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity9"
+        android:title="@string/tableonfirstrun"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity10"
+        android:title="@string/onetoone"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity11"
+        android:title="@string/onetomany"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity12"
+        android:title="@string/manytomany"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity13"
+        android:title="@string/typeconverter"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity14"
+        android:title="@string/livedata"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity15"
+        android:title="@string/rxjavaobservable"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity16"
+        android:title="@string/rxjavasingle"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity17"
+        android:title="@string/roomtocsv"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity18"
+        android:title="@string/livedataandviewmodel"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity19"
+        android:title="@string/populate"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_roomdatabaseactivity20"
+        android:title="@string/limit"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

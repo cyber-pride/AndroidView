@@ -13,6 +13,7 @@ import com.bluapp.androidview.Menu.MenuActivity1;
 import com.bluapp.androidview.NavigationView.NavigationViewActivity1;
 import com.bluapp.androidview.RecyclerView.RecyclerViewActivity1;
 import com.bluapp.androidview.Retrofit.RetrofitActivity1;
+import com.bluapp.androidview.RoomDatabase.RoomDatabaseActivity1;
 import com.bluapp.androidview.SearchView.SearchViewActivity1;
 import com.bluapp.androidview.TabLayoutAndViewPager.TabLayoutAndViewPagerActivity1;
 import com.bluapp.androidview.VideoView.VideoViewActivity1;
@@ -77,5 +78,9 @@ public class ViewActivity extends AppCompatActivity {
 
     public void Volley(View view){
         startActivity(new Intent(ViewActivity.this, VolleyActivity1.class));
+    }
+
+    public void RoomDatabase(View view){
+        startActivity(new Intent(ViewActivity.this, RoomDatabaseActivity1.class));
     }
 }
